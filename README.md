@@ -15,6 +15,11 @@
 
 **Remember to stay active on the Slack channels for any announcements and updates. Happy Coding!**
 
+## Share Your Progress
+- [ ]  Attend networking sessions on Hopin
+- [ ]  Post on Slack
+- [ ]  Post on LinkedIn and social media
+
 ## WWCode Python
 
 - [x] Attend the Python Days of Code Challenge Launch on Jan 10 at 04:30PM–05:00PM CET or watch the recording (link to be updated soon)
