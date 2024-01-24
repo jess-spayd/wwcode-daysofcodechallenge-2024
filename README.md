@@ -3,7 +3,7 @@
 ## 🚀 Start Here
 - [x]  Register for the event on [Hopin](https://hopin.com/events/wwcode-days-of-code/registration)
 - [x]  Save the sessions dates to your calendar. Find the schedule [here](https://hopin.com/events/wwcode-days-of-code/registration)
-- [ ]  Join WWCode [Slack](https://join.slack.com/t/wwcode/shared_invite/zt-24z59rjz8-rrRiZnS94tR0ay6kpfU40Q)
+- [x]  Join WWCode [Slack](https://join.slack.com/t/wwcode/shared_invite/zt-24z59rjz8-rrRiZnS94tR0ay6kpfU40Q)
 - [ ]  Introduce yourself in the #code-challenge-community channel on Slack
 - [ ]  Attend the Opening Ceremony on January 8th at 05:00PM – 06:00PM CET, or watch the [recording](https://youtu.be/9KH4alFlfLU).
 - [ ]  (Optional) Attend Interactive Participant Networking Session on January 8th at 06:00PM – 07:00PM CET
@@ -32,5 +32,5 @@
 
 ## WWCode Data Science
 
-- [ ] Attend the Data Science Challenge Launch: Kaggle EDA on Jan 23 at 06:00PM–06:30PM CET or watch the recording (link to be updated soon)
+- [x] Attend the Data Science Challenge Launch: Kaggle EDA on Jan 23 at 06:00PM–06:30PM CET or watch the recording (link to be updated soon)
 - [x] Join the WWCode Data Science [Slack (invitation link)](https://join.slack.com/t/wwcodedatascience/shared_invite/zt-1yl4nvnf4-OT9emBz5EXk90va8LhekpA)
