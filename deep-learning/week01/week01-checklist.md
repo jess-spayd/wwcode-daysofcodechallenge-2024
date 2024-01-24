@@ -8,5 +8,5 @@
 - [ ] Answer the questions at the end of the notebook
 
 ## Bonus Challenge
-- [ ] On Kaggle Create your own image classifier using your own image searches
+- [x] On Kaggle Create your own image classifier using your own image searches
 - [ ] Share your result on #deeplearning and your social media and tag WWCode and WWCode Emerging tech!
