@@ -1,20 +1,41 @@
 ## Questionnaire
 1. Do you need these for deep learning?
-   - Lots of math T / F
-   - Lots of data T / F
-   - Lots of expensive computers T / F
-   - A PhD T / F
+   - Lots of math T / **F**
+   - Lots of data T / **F**
+   - Lots of expensive computers T / **F**
+   - A PhD T / **F**
 2. Name five areas where deep learning is now the best in the world.
+    - NLP
+    - computer vision
+    - recommendation systems
+    - image generation
+    - games
 3. What was the name of the first device that was based on the principle of the artificial neuron?
+    - Mark I Perceptron
 4. Based on the book of the same name, what are the requirements for parallel distributed processing (PDP)?
+    - A set of processing units
+    - A state of activation
+    - An output function for each unit
+    - A pattern of connectivity among units
+    - A propagation rule for propagating patterns of activities through the network of connectivities
+    - An activation rule for combining the inputs impinging on a unit with the current state of that unit to produce an output for the unit
+    - A learning rule whereby patterns of connectivity are modified by experience
+    - An environment within which the system must operate
 5. What were the two theoretical misunderstandings that held back the field of neural networks?
+    - 
+    - 
 6. What is a GPU?
+    - A special kind of processor in your computer that can handle thousands of single tasks at the same time
 7. Open a notebook and execute a cell containing: `1+1`. What happens?
+    - It add 1+1 and returns 2.
 8. Follow through each cell of the stripped version of the notebook for this chapter. Before executing each cell, guess what will happen.
 9. Complete the Jupyter Notebook online appendix.
 10. Why is it hard to use a traditional computer program to recognize images in a photo?
+    - Traditional programs require you to list steps, but the steps in recognize an image are hard to define.
 11. What did Samuel mean by "weight assignment"?
+    - Weight assignments are values that define how the program will operate.
 12. What term do we normally use in deep learning for what Samuel called "weights"?
+    - parameters
 13. Draw a picture that summarizes Samuel's view of a machine learning model.
 14. Why is it hard to understand why a deep learning model makes a particular prediction?
 15. What is the name of the theorem that shows that a neural network can solve any mathematical problem to any level of accuracy?
