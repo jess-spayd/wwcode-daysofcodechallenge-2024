@@ -1,11 +1,11 @@
 # Women Who Code Data Science: 7-Day Kaggle Exploratory Data Analysis (EDA) Challenge
 
 ## Checklist
-- [ ] Select a skill level: beginner, intermediate, or advanced
-- [ ] Complete the daily tasks, reminders will be posted the Slack channel
-- [ ] Work in a notebook, Kaggle notebook, or Google Colab
-- [ ] Spend from 30min - 1hr per day and move on
-- [ ] Use your checklist to note your progress
+- [x] Select a skill level: beginner, intermediate, or advanced
+- [x] Complete the daily tasks, reminders will be posted the Slack channel
+- [x] Work in a notebook, Kaggle notebook, or Google Colab
+- [x] Spend from 30min - 1hr per day and move on
+- [x] Use your checklist to note your progress
 
 ## Submission
 - Before January 31, 2024 (any time zone)
@@ -45,7 +45,7 @@ Calculate basic statistics (mean, median, mode, and more)
 
 ### INTERMEDIATE: 
 
-- [ ] **Day 1 - Data Cleaning and Transformation**:
+- [x] **Day 1 - Data Cleaning and Transformation**:
 Handle missing values and perform initial data transformations.
 
 - [ ] **Day 2 - Data Cleaning and Transformation**:
