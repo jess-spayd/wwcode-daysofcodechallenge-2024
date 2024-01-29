@@ -39,24 +39,43 @@
 13. Draw a picture that summarizes Samuel's view of a machine learning model.
 14. Why is it hard to understand why a deep learning model makes a particular prediction?
 15. What is the name of the theorem that shows that a neural network can solve any mathematical problem to any level of accuracy?
+    - Universal approximation theorem
 16. What do you need in order to train a model?
+    - data with labels
 17. How could a feedback loop impact the rollout of a predictive policing model?
+    - It can reinforce bias by predicting arrests rather than crime.
 18. Do we always have to use 224×224-pixel images with the cat recognition model?
+    - No. Larger pictures will produce better models but at the cost of speed and memory.
 19. What is the difference between classification and regression?
+    - Classification predicts categories; regression predicts numeric values.
 20. What is a validation set? What is a test set? Why do we need them?
+    - The validation set is a chunk of the data used to evaluate how well the model works. This can be used to continue tuning the model. The test set is only used at the very end to show the efficacy of the model once it has been fine-tuned.
 21. What will fastai do if you don't provide a validation set?
+    - It will create one for you.
 22. Can we always use a random sample for a validation set? Why or why not?
+    - It should be random but with a seed set so that every time you make changes to the model, the results will be directly comparable, as opposed to a new random sample every time.
 23. What is overfitting? Provide an example.
+    - A model overfits if it predicts the validation set very well but performs poorly on new data.
 24. What is a metric? How does it differ from "loss"?
+    - Metrics measure the quality of the model's predictions. Loss is information for the model to use in training. Metrics are for humans to understand the model's efficacy.
 25. How can pretrained models help?
+    - Pretrained models are already tuned to the type of data and can already do some work. They will require tuning.
 26. What is the "head" of a model?
+    - The last layer of a model which will be customized to the specific training task.
 27. What kinds of features do the early layers of a CNN find? How about the later layers?
+    - The layers progressively find more refined characteristics.
 28. Are image models only useful for photos?
+    - No, they can be used with other kinds of data.
 29. What is an "architecture"?
+    - The functional form of a model (type of model)
 30. What is segmentation?
+    - When a model can recognize every pixel of an image.
 31. What is `y_range` used for? When do we need it?
+    - `y_range` gives the scale/range of the value we are predicting. This is needed when predicting a continuous value.
 32. What are "hyperparameters"?
+    - "Parameters about parameters:" making choices to adjust the model.
 33. What's the best way to avoid failures when using AI in an organization?
+    - using validation and test sets
 
 ## Further Research
 1. Why is a GPU useful for deep learning? How is a CPU different, and why is it less effective for deep learning?
